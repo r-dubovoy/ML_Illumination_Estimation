@@ -1,0 +1,1 @@
+blender --background /Users/romandubovyi/ml_jedis/ml_light/training/blender/scenes/ruslan-with-hat.blend --python render_single_argv.py -- x_var y_var z_var

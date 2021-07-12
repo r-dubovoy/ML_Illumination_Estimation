@@ -1,0 +1,1 @@
+/Users/romandubovyi/ml_jedis/ml_light/training/blender/scenes/ruslan-with-hat.blend

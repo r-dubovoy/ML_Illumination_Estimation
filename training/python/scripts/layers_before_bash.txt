@@ -1,0 +1,1 @@
+blender /Users/romandubovyi/ml_jedis/ml_light/training/blender/scenes/ruslan-with-hat-layers.blend --background --python layers_before_random.py -- filename
